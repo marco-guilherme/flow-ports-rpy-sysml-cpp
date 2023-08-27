@@ -1,0 +1,61 @@
+I-Logix-RPY-Archive version 8.6.0 * 2071527
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 8;
+	- value = "DefaultComponent\\DefaultConfig\\Bar.cpp" 8.24.2023::1:15:49
+	"DefaultComponent\\DefaultConfig\\Bar.h" 8.24.2023::1:15:49
+	"DefaultComponent\\DefaultConfig\\Default.cpp" 8.24.2023::1:15:49
+	"DefaultComponent\\DefaultConfig\\Default.h" 8.24.2023::1:15:49
+	"DefaultComponent\\DefaultConfig\\Foo.cpp" 8.24.2023::1:15:49
+	"DefaultComponent\\DefaultConfig\\Foo.h" 8.24.2023::1:15:49
+	"DefaultComponent\\DefaultConfig\\intFlowInterface.cpp" 8.24.2023::0:46:31
+	"DefaultComponent\\DefaultConfig\\intFlowInterface.h" 8.24.2023::0:46:31
+	
+}
+- size = 5;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Default.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "Default";
+	- _id = GUID f0a23e7c-f4c2-467c-9aed-4d1396000c53;
+}
+- genTime = 8.24.2023::11:10:38;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID a0932961-a1b9-472d-bc36-a766a00e4a6e;
+}
+- genTime = 8.24.2023::11:14:12;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Default.sbs";
+	- _subsystem = "Default";
+	- _class = "";
+	- _name = "Bar";
+	- _id = GUID 71ecaac7-1e51-465d-b2dc-b016cb21f8bc;
+}
+- genTime = 8.24.2023::11:10:38;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Default.sbs";
+	- _subsystem = "Default";
+	- _class = "";
+	- _name = "Foo";
+	- _id = GUID 9dc92102-0e3e-4cdd-b0b8-a8175d7dc462;
+}
+- genTime = 8.24.2023::11:10:38;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _filename = "";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "";
+	- _id = GUID fbd2a7bc-3b61-40e1-ab37-944040b32d89;
+}
+- genTime = 8.24.2023::11:10:38;
+

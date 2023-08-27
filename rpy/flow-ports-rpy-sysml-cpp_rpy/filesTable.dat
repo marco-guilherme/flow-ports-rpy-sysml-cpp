@@ -1,0 +1,10 @@
+I-Logix-RPY-Archive version 8.6.0 * 2071527
+
+- filesTable = { IRPYRawContainer 
+	- size = 3;
+	- value = "flow-ports-rpy-sysml-cpp.rpy" ""
+	"flow-ports-rpy-sysml-cpp_rpy\\Default.sbs" "Default"
+	"flow-ports-rpy-sysml-cpp_rpy\\DefaultComponent.cmp" "DefaultComponent"
+	
+}
+
